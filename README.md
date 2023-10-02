@@ -35,6 +35,7 @@
   The test written are just to see if the shape is rendered and if the color fills the shape.
 
   ## Demo
+[quickie_logo_generator_demo.webm](https://github.com/RanilSD/quckie_logo_generator/assets/139150974/7f2b1ef9-35ae-4076-9740-86b57aaaf846)
 
 
   ## Questions
