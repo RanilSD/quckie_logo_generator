@@ -2,7 +2,7 @@
 const fs = require("fs");
 const inquirer = require("inquirer");
 const { Triangle, Circle, Square } = require("./lib/shapes");
-
+const colors = require("./lib/color");
 //questions to create logo
 
 const inputQuestion = [
